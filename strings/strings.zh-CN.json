@@ -148,6 +148,7 @@
   "boring": "禁用特殊事件",
   "touch": "触屏设备",
   "tabLoad": "预加载面板内容",
+  "always_power": "总是为新建造的建筑供能",
   "load_string_pack": "导入字符串包",
   "clear_string_pack": "清除字符串包",
   "string_pack_none": "未选中任何字符串包",
