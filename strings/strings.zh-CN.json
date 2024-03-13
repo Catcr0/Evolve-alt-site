@@ -6730,7 +6730,7 @@
   "eden_asphodel_name": "水仙花园",
   "eden_asphodel_desc": "这是一处一望无际的水仙花园，这里似乎绽放着幽灵之花，但这里存在着一种不祥之兆。",
   "eden_asohodel_desc_peaceful": "透明的两足生物们在这里游荡着，但他们似乎不理睬你。",
-  "eden_asohodel_desc_hostile": "虽然幽灵居民们刚刚理睬了你，但其他有害生物们正在隐隐约约地和你敌对。",
+  "eden_asohodel_desc_hostile": "虽然幽灵居民们与你合作，但其他有害生物们正在隐隐约约地与你敌对。",
   "eden_survery_meadows_title": "调查种植场",
   "eden_survery_meadows_effect": "调查水仙花种植场",
   "eden_survery_meadows_action": "This place fills you with a feeling that you are being watched and don't belong here. Large numbers of unremarkable souls seem to roam this place aimlessly, you have also picked samples of the ghost flower for analysis.",
