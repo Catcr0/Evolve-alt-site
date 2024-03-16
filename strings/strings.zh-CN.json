@@ -7624,7 +7624,7 @@
   "wiki_trait_effect_malnutrition": "饥饿时全局产量惩罚 -%0%。",
   "wiki_trait_effect_claws": "战斗评级 +%0%，计算战役结果时我方战斗评级平均值 +%0%。",
   "wiki_trait_effect_atrophy": "饿死的阈值 -%0 （阈值默认为 1.25；如果食物产量≥食物消耗/阈值，则不会有市民饿死）。",
-  "wiki_trait_effect_hivemind": "士兵、伐木工人、石工、回收者、水晶矿工、矿工、煤矿工人、水泥工人、教授和科学家的效率随着该项工作的人数而变化。低于 %0 人时效率低于正常，高于 %0 人时效率高于正常。",
+  "wiki_trait_effect_hivemind": "士兵、伐木工人、石工、回收者、水晶矿工、矿工、煤矿工人、水泥工人、教授、科学家和法师的效率随着该项工作的人数而变化。低于 %0 人时效率低于正常，高于 %0 人时效率高于正常。",
   "wiki_trait_effect_tunneler": "矿井和煤矿成本蠕变 -%0。",
   "wiki_trait_effect_blood_thirst": "战斗暂时提升士气，上限为 +%0，免疫战争贩子惩罚。",
   "wiki_trait_effect_apex_predator": "战斗评级 +%0%，狩猎产量 +%1%，无法研究护甲。",
